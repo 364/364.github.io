@@ -1,2 +1,1 @@
-# 364.github.io
-# hexo + github
+## hexo + github
